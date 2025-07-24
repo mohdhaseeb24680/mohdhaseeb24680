@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Haseeb
 
-<!--
-**mohdhaseeb24680/mohdhaseeb24680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Computer Science Engineering student  
+-  Passionate about Artificial Intelligence and Full-Stack Development  
+-  Currently learning: Python, Machine Learning, React, APIs  
+-  interested in building real-world AI projects and web apps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+-  Frontend: HTML, CSS, JavaScript, React
+-  AI/ML: Python, NumPy, Pandas, Scikit-Learn
+-  Backend: Flask, Node.js (Learning)
+-  Tools: Git, GitHub, VS Code, Jupyter
+
+---
+
+### Projects (Coming Soon / In Progress)
+
+- Top Colleges in Mangalore: Built using Streamlit; filters colleges based on student preferences.
+- Insurance Management System: Web app to streamline insurance service administration. Used HTML/CSS and Python.
+
+---
+
+### Let's Connect
+
+- 💼 [LinkedIn]-    https://www.linkedin.com/in/muhd-haseeb-361ba325b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+- 📧 mohdhaseeb24680@email.com
